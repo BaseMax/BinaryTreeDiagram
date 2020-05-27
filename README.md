@@ -6,6 +6,15 @@ A software to analyze a octal number and generate formula to produce graph. (Phd
 
 https://github.com/BaseMax/PhdMathProject
 
+
+## Thanks to
+
+**Article supervisor:** Dr Hamidi (President of University)
+
+**Programmer:** Iman
+
+**Maintainer:** Max Base
+
 ---------
 
 # Max Base
