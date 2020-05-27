@@ -12,10 +12,6 @@ $ python main.py
 
 -------
 
-## Related repository
-
-https://github.com/BaseMax/BinaryTreeDiagramDrawing
-
 ## Thanks to
 
 **Researcher:** Dr. Marzieh Rahmati
@@ -25,3 +21,7 @@ https://github.com/BaseMax/BinaryTreeDiagramDrawing
 **Programmer:** Iman
 
 **Maintainer:** Max Base
+
+## Related repository
+
+https://github.com/BaseMax/BinaryTreeDiagramDrawing
