@@ -2,6 +2,16 @@
 
 A software to analyze a octal number and generate formula to produce graph. (Phd Project in mathematics field, Article)
 
+## Using
+
+```
+$ git clone https://github.com/BaseMax/BinaryTreeDiagram
+$ python main.py
+<enter your numbers>
+```
+
+-------
+
 ## Related repository
 
 https://github.com/BaseMax/BinaryTreeDiagramDrawing
