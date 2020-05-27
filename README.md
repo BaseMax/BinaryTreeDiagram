@@ -1,15 +1,16 @@
-# Math Graph Drawing
+# Binary Tree Diagram Drawing (Math Graph)
 
 A software to analyze a octal number and generate formula to produce graph. (Phd Project in mathematics field, Article)
 
 ## Related repository
 
-https://github.com/BaseMax/PhdMathProject
-
+https://github.com/BaseMax/BinaryTreeDiagramDrawing
 
 ## Thanks to
 
-**Article supervisor:** Dr Hamidi (President of University)
+**Researcher:** Dr. Marzieh Rahmati
+
+**Article supervisor:** Dr. Mohammad Hamidi (President of University)
 
 **Programmer:** Iman
 
