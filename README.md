@@ -8,7 +8,7 @@ A software to analyze a octal number and generate formula to produce graph. (Phd
 
 ```
 $ git clone https://github.com/BaseMax/BinaryTreeDiagram
-$ python main.py
+$ python source.py
 <enter your numbers>
 ```
 
