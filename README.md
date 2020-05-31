@@ -45,7 +45,8 @@ python main.py (or python3 main.py)
 
 ## Related repository
 
-https://github.com/BaseMax/BinaryTreeDiagramDrawing
+- https://github.com/BaseMax/BinaryTreeDiagramDrawing (Old source code of this program)
+- https://github.com/BaseMax/TexSample/ (For Latex)
 
 ---------
 
