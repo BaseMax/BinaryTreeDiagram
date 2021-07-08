@@ -39,7 +39,7 @@ python main.py (or python3 main.py)
 
 **Article supervisor:** Dr. Mohammad Hamidi (President of University)
 
-**Coder and tester:** Iman Mirazimi
+**Coder and tester:** [Iman Mirazimi](https://github.com/imirazimi/)
 
 **Maintainer:** Max Base
 
